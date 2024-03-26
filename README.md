@@ -1,14 +1,14 @@
-Horoscope NFT DApp
-Description
+#Horoscope NFT DApp
+#Description
 Horoscope NFT DApp is a decentralized application (DApp) designed for minting horoscope-themed non-fungible tokens (NFTs). Users can connect their cryptocurrency wallets, enter their personal details, and mint their unique horoscope NFTs. Each NFT represents a specific astrological sign and contains personalized information based on the user's input.
 
-Features
+#Features
 Wallet Integration: Connect your cryptocurrency wallet seamlessly to the DApp.
 Personalized Horoscope NFTs: Users can input their personal details to generate customized horoscope NFTs.
 Unique Designs: Each NFT features unique artwork and information corresponding to the user's astrological sign.
 Secure Transactions: All transactions are secured through blockchain technology, ensuring transparency and immutability.
 User-Friendly Interface: The DApp offers a simple and intuitive interface for easy navigation and interaction.
-How to Use
+#How to Use
 Connect Wallet: Click on the "Connect Wallet" button to link your cryptocurrency wallet to the DApp.
 Enter Details: Provide your personal details, such as your name, birth date, and astrological sign.
 Mint Horoscope NFT: After entering your details, click on the "Mint NFT" button to generate your personalized horoscope NFT.
