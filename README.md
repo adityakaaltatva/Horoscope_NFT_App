@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Horoscope_NFT_App
 
 
 # Horoscope NFT DApp
