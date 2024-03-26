@@ -1,7 +1,7 @@
 
 
 # Horoscope NFT DApp
-
+Vercel Link: https://horoscope-nft-app.vercel.app/
 ## Description
 
 Horoscope NFT DApp is a decentralized application (DApp) designed for minting horoscope-themed non-fungible tokens (NFTs). Users can connect their cryptocurrency wallets, enter their personal details, and mint their unique horoscope NFTs. Each NFT represents a specific astrological sign and contains personalized information based on the user's input.
